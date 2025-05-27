@@ -31,7 +31,7 @@ The project demonstrates basic CRUD operations and web development concepts usin
 
 ## Additional Files
 
-- `project.docx`: Detailed project report/documentation
+- `https://github.com/anushakasanaboina/LIBRARY_MANAGEMENT/blob/main/project.docx`: Detailed project report/documentation
 
 ---
 
